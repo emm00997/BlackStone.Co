@@ -1,0 +1,152 @@
+body{
+    background-color: black;
+    padding: 0rem;
+    margin: 0rem;
+}
+
+.blackstone{
+    color: white;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 5rem;
+    letter-spacing: 1.2rem;
+   margin-top: 2.9rem;
+   margin-left: 23rem;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+    margin-top: -4rem;
+    margin-left: 1rem;
+}
+
+.Coffee{
+    color: white;
+    font-size: 4rem;
+    font-family: 'Palanquin', sans-serif;
+    margin-left: 30.5rem;
+    text-decoration: underline;
+}
+/*DIFFERENT COFFEE TYPES*/
+.type1{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 36.1rem;
+    margin-top: -2.5rem;
+}
+.type1-a{
+    text-decoration: none;
+}
+.type1:hover{
+    cursor: pointer;
+}
+
+.type2{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 35.4rem;
+}
+.type3{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 37.5rem;
+}
+.type4{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 34.8rem;
+}
+.type5{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 36.9rem;
+}
+.type6{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 35.9rem;
+}
+.type7{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 33.2rem;
+}
+
+/*   END OF COFFEE SECTION*/
+
+/*START OF THE PASTRY SECTION*/
+
+
+.Pastry{
+    color: white;
+    font-size: 4rem;
+    font-family: 'Palanquin', sans-serif;
+    margin-left: 29.8rem;
+    text-decoration: underline;
+    margin-bottom: 0rem;
+}
+
+.disclaim{
+    color: white;
+    font-size: 1.3rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 24.5rem;
+  }
+
+  .ptype1{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 37.4rem;
+}
+.ptype1:hover{
+    cursor: pointer;
+}
+.ptype1-a{
+    text-decoration: none;
+}
+
+
+.ptype2{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 36.5rem;
+}
+
+.ptype3{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 36.1rem;
+}
+
+.ptype4{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 37.7rem;
+}
+
+.ptype5{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 37.7rem;
+}
+.ptype6{
+    color: white;
+    font-size: 1.8rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    margin-left: 37.99rem;
+}
+
+/* END OF PASTRIE SECTION*/ 
